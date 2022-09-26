@@ -1,0 +1,12 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>com.github.mjlaufer.glintintellij</id>
+    <name>Glint</name>
+    <vendor>mjlaufer</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.github.mjlaufer.glintintellij" path="/theme/glint.theme.json" />
+    </extensions>
+</idea-plugin>
