@@ -605,6 +605,7 @@
                 <option name="FOREGROUND" value="6d6d6d" />
             </value>
         </option>
+        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
         <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
         <option name="JS.FUNCTION_ARROW">
@@ -621,6 +622,11 @@
             <value>
                 <option name="FOREGROUND" value="e39cbd" />
                 <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="719ed8" />
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE">
@@ -724,6 +730,12 @@
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="d9a85d" />
+            </value>
+        </option>
+        <option name="STATIC_FIELD_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="719ed8" />
+                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
