@@ -306,7 +306,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="779978" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
@@ -610,6 +610,11 @@
         <option name="JS.FUNCTION_ARROW">
             <value>
                 <option name="FOREGROUND" value="a6a6a6" />
+            </value>
+        </option>
+        <option name="JS.GLOBAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="c6c6c6" />
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE">
