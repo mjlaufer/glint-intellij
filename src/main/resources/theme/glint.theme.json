@@ -19,7 +19,7 @@
     "darkCyan": "#6e9291",
     "blue": "#7a9dce",
     "magenta": "#e39cbd",
-    "darkMagenta": "#c7709b",
+    "darkMagenta": "#af7d94",
     "diffRed": "#482727",
     "diffGreen": "#263427",
     "diffBlue": "#29313d"
@@ -43,7 +43,7 @@
       "Objects.Blue": "#7a9dce",
       "Objects.Grey": "#a6a6a6",
       "Objects.Pink": "#e39cbd",
-      "Objects.Purple": "#c7709b",
+      "Objects.Purple": "#af7d94",
       "Checkbox.Background.Default.Dark": "#1f1f1f",
       "Checkbox.Background.Disabled.Dark": "#2c2c2c",
       "Checkbox.Border.Default.Dark": "#3e3e3e",

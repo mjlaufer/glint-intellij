@@ -16,7 +16,7 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ef6e6e" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ef6e6e" />
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ef6e6e" />
-        <option name="FILESTATUS_MERGED" value="c7709b" />
+        <option name="FILESTATUS_MERGED" value="af7d94" />
         <option name="FILESTATUS_MODIFIED" value="6e9291" />
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6e9291" />
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6e9291" />
@@ -348,7 +348,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
             </value>
         </option>
         <option name="DEFAULT_DOC_MARKUP">
@@ -494,7 +494,7 @@
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
             </value>
         </option>
         <option name="DELETED_TEXT_ATTRIBUTES">
@@ -548,14 +548,14 @@
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
-                <option name="EFFECT_COLOR" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
+                <option name="EFFECT_COLOR" value="af7d94" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="GHERKIN_REGEXP_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
             </value>
         </option>
         <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
@@ -622,7 +622,7 @@
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -686,7 +686,7 @@
         </option>
         <option name="JS.REGEXP">
             <value>
-                <option name="FOREGROUND" value="c7709b" />
+                <option name="FOREGROUND" value="af7d94" />
             </value>
         </option>
         <option name="LINE_FULL_COVERAGE">
@@ -797,9 +797,9 @@
         <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
         <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
         <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-        <option name="REGEXP.CHAR_CLASS" baseAttributes="c7709b" />
+        <option name="REGEXP.CHAR_CLASS" baseAttributes="af7d94" />
         <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-        <option name="REGEXP.META" baseAttributes="c7709b" />
+        <option name="REGEXP.META" baseAttributes="af7d94" />
         <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
         <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
