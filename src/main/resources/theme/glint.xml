@@ -208,9 +208,25 @@
                 <option name="FOREGROUND" value="dfa64e" />
             </value>
         </option>
+        <option name="CSS.BAD_CHARACTER">
+            <value>
+                <option name="EFFECT_COLOR" value="ef6e6e" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
         <option name="CSS.CLASS_NAME">
             <value>
                 <option name="FOREGROUND" value="d1d1d1" />
+            </value>
+        </option>
+        <option name="CSS.COMMENT">
+            <value>
+                <option name="FOREGROUND" value="dfa64e" />
+            </value>
+        </option>
+        <option name="CSS.COLON">
+            <value>
+                <option name="FOREGROUND" value="919191" />
             </value>
         </option>
         <option name="CSS.COLOR">
@@ -233,14 +249,24 @@
                 <option name="FOREGROUND" value="e492ba" />
             </value>
         </option>
+        <option name="CSS.PROPERTY_NAME">
+            <value>
+                <option name="FOREGROUND" value="b0b0b0" />
+            </value>
+        </option>
         <option name="CSS.PROPERTY_VALUE">
             <value>
-                <option name="FOREGROUND" value="d1d1d1" />
+                <option name="FOREGROUND" value="82bf83" />
             </value>
         </option>
         <option name="CSS.TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="d1d1d1" />
+            </value>
+        </option>
+        <option name="CSS.UNICODE.RANGE">
+            <value>
+                <option name="FOREGROUND" value="82bf83" />
             </value>
         </option>
         <option name="CSS.URL">
@@ -824,6 +850,16 @@
         <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
         <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="SASS_MIXIN">
+            <value>
+                <option name="FOREGROUND" value="919191" />
+            </value>
+        </option>
+        <option name="SASS_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="b0b0b0" />
+            </value>
+        </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="e4ac59" />
