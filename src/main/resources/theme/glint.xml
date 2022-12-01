@@ -850,6 +850,21 @@
         <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
         <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="org.rust.MACRO">
+            <value>
+                <option name="FOREGROUND" value="d1d1d1" />
+            </value>
+        </option>
+        <option name="org.rust.METHOD_CALL">
+            <value>
+                <option name="FOREGROUND" value="d1d1d1" />
+            </value>
+        </option>
+        <option name="org.rust.PRIMITIVE_TYPE">
+            <value>
+                <option name="FOREGROUND" value="7db5b4"/>
+            </value>
+        </option>
         <option name="SASS_MIXIN">
             <value>
                 <option name="FOREGROUND" value="919191" />
